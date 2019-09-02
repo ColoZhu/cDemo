@@ -13,7 +13,7 @@ typedef struct {
 
 //2.定义图  邻接链表表示法
 // # define MaxN   30  /*图中顶点数最大值*/
-//typedef int AdjMatrix[MaxN][MaxN]; /*邻接矩阵*/
+//typedef int AdjMatrix[MaxN][MaxN];tu.cpp /*邻接矩阵*/
 typedef struct ArcNode {   //邻接链表的表结点
 
     int adjvex;    //邻接顶点的顶点序号
