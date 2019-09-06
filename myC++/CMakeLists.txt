@@ -7,4 +7,4 @@ add_executable(myC__
         loc.cpp
         main.cpp
         main1.cpp
-        tree.cpp zuidaziduanhe.cpp zuidaziduanhe.h)
+        tree.cpp zuidaziduanhe.cpp zuidaziduanhe.h hanshu.cpp hanshu.h a.h b.cpp zuichanggonggongzixulie.cpp zuichanggonggongzixulie.h stackDemo.cpp stackDemo.h)
